@@ -1,5 +1,3 @@
-// unit.test.js
-
 const functions = require('../code-to-unit-test/unit-test-me.js');
 
 // TODO - Part 2
@@ -95,4 +93,8 @@ test("Is HexColor 1", () => {
 test("Is HexColor 1", () => {
 	let test4 = functions.isHexColor('#AA');
 	expect(test4).toBe(false);
+<<<<<<< HEAD
 })
+=======
+})
+>>>>>>> e1078fb8ce29f1ad9209217db8709c1490fc88c3
